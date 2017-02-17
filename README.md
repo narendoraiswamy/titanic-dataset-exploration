@@ -1,3 +1,3 @@
 # titanic-dataset-exploration
 
-a titanic dataset exploration project whicgh predicts the survival rate of the passengers.
+a titanic dataset exploration project which predicts the survival rate of the passengers.
